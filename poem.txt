@@ -10,6 +10,10 @@ red
 gold
 hello word
 bye
+jc
+nisy
+nika
+rai
 
 
 this are the color of my rainbow.
