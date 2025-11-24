@@ -7,5 +7,9 @@ blue
 green
 yellow
 red
+gold
+hello word
+bye
+
 
 this are the color of my rainbow.
