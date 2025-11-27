@@ -10,6 +10,7 @@ red
 gold
 hello word
 bye
+the earth is circle
 jc
 nisy
 nika
@@ -18,3 +19,4 @@ rai
 
 this are the color of my rainbow.
 the sky is blue
+
